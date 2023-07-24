@@ -5,6 +5,7 @@ Question 2: What is your favorite programming language?
 timothy: none of the above
 
 Question 3: What is your favorite food?
+Arusa: Indian Food
 
 Question 4: What is your favorite movie?
 
