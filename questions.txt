@@ -1,16 +1,17 @@
 Question 1: What is your favorite color?
-timothy: grey like my soul
+Timothy: grey like my soul
 
 Question 2: What is your favorite programming language?
-timothy: none of the above
+Timothy: none of the above
 
 Question 3: What is your favorite food?
 Arusa: Indian Food
 
 Question 4: What is your favorite movie?
-wolf of wall street
+Timothy: wolf of wall street
 
 Question 5: What is your favorite book?
 Arusa: "Crying in HMart"
 
 Question 6: What is your favorite place you've traveled?
+Timothy: key west, florida
